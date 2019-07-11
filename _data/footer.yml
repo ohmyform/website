@@ -5,8 +5,7 @@
     link: /contact/
 - links:
   - name: Docs
-    link: /
-    new_window: true
+    link: /docs/
   - name: Github
     link: https://github.com/ohmyform
     new_window: true

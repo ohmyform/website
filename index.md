@@ -41,7 +41,7 @@ description: Never has there been such a good Open Source form
 	<section class="bottom-cta">
 		<h2 class="editable">Host it yourself. No installation fee. No monthly charges.</h2>
 		<p>TellForm will forever be 100% opensource. That's our commitment to you.</p>
-		<div class="button alt"><a href="/doc/install">Install Yourself</a></div>
+		<div class="button alt"><a href="/docs/install">Install Yourself</a></div>
 	</section>
 <!--
 	<section class="testimonial">

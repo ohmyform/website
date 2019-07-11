@@ -7,7 +7,6 @@
   new_window: false
   highlight: false
 - name: Documentation
-  link: /doc/
+  link: /docs/
   new_window: false
   highlight: true
-  
