@@ -1,0 +1,12 @@
+- links:
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Docs
+    link: /
+    new_window: true
+  - name: Github
+    link: https://github.com/ohmyform
+    new_window: true

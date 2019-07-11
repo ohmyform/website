@@ -1,0 +1,13 @@
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Documentation
+  link: /doc/
+  new_window: false
+  highlight: true
+  
