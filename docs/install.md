@@ -1,8 +1,8 @@
 ---
-title: Install
+title: Quick Start Installation of OhMyForm
 ---
 
-## Recommended method is via Docker
+### Recommended method is via Docker
 Docker affords us the luxury of only really having to deal with a very limited number of possible deployment scenarios as we get to ship the entire environment with the app without costing you or us much in the process. Before docker to achieve this we would've had to ship an entire virtual machine or even worse build you an identical server and ship it your way.  Now its just a `docker pull` away from reality.  This is why we're going with Docker, there will be documentation on how to do things directly with the source however ideally that will only be Contributor facing.
 
 ### Local Development
