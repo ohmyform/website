@@ -6,10 +6,12 @@ title: Install
 
 ### Local Development
 
-The steps are
-Step one: `git clone https://github.com/ohmyform/ohmyform.git`
-Step Two: `cd ./ohmyform/Docker/compose`
-Step Three: `docker-compose up -d`
+The steps are as follows:
+* Step one: `git clone https://github.com/ohmyform/ohmyform.git`
+* Step Two: Modify anything you want to in the source.
+* Step Three: `cd ./ohmyform/Docker/compose`
+* Step Four: `docker-compose up -d`
+
 You should at this point have a working instance to play with at `http://localhost/` within moments.
 
 ### Installation of a Production Instance
