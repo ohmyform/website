@@ -22,7 +22,7 @@ You should at this point have a working instance to play with at `http://localho
 
 ## Installation of a Production Instance
 
-OhMyForm is still under heavy re-certification and re-factoring before we would recommend that you use it in production however it's not unreasonable to want to give a go at it so we're going to aim to have some kind of suggested `docker-compose.yml` example available asap within the repositories `./ohmyform/Docker/compose/` directory.
+OhMyForm recently underwent heavy re-certification and re-factoring before we would recommend that you use it in production. We have managed to achieve the goal of having a working updated and CVE free pre 1.0 release available.  We are going to aim for a number of things to be completed before we consider it 1.0 stable but you're welcomed to run it for small campaigns.  It's unlikely that we're going to break the storage system.
 
 ## Compile from source
-This won't be supported and most QA via Git Issues will have this line cited and will be closed to triage edge cases, we don't want to support infinite possible edge cases.  Conversely we will definitely consider all issues fairly however if it will require a significant effort or distracts heavily from scope without reasonable cause we will likely triage it out of the tracker.
+This won't typically be supported and most QA via Git Issues will have this line cited and will be closed to triage edge cases, we don't want to support infinite possible edge cases.  Conversely we will definitely consider all issues fairly however if it will require a significant effort or distracts heavily from scope without reasonable cause we will likely triage it out of the tracker.
