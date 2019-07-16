@@ -8,12 +8,13 @@ Docker affords us the luxury of only really having to deal with a very limited n
 ### Local Development
 
 The steps are as follows:
-* Step one: `git clone https://github.com/ohmyform/ohmyform.git`
+* Step One: `git clone https://github.com/ohmyform/ohmyform.git`
 * Step Two: Modify anything you want to in the source.
-* Step Three: `cd ./ohmyform/Docker/compose`
+* Step Three: `cd ohmyform`
 * Step Four: `docker-compose up -d`
+* Step Five: `docker-compose ps`
 
-You should at this point have a working instance to play with at `http://localhost/` within moments.
+You should at this point have a working instance to play with at `http://localhost:5000/` within moments.
 
 ### Console playback of Local Development installation
 <!-- TODO: Make sure to include asciinema embedable from https://github.com/lbryio/lbry-docker/tree/master/contrib/k8s-lbry/kick-ascii that includes an asciinema recording of the deployment of a local dev env. -->
