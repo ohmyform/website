@@ -1,4 +1,4 @@
-TellForm's configuration is done with environment variables. To set an option for TellForm, open/create your .env file and set add `ENV_VAR=somevalue` to set the ENV_VAR variable to the value `somevalue`.
+OhMyForm's configuration is done with environment variables. To set an option for OhMyForm, open/create your .env file and set add `ENV_VAR=somevalue` to set the ENV_VAR variable to the value `somevalue`.
 
 
 #### NODE_ENV
@@ -50,7 +50,7 @@ Values: A valid port number from 0 - 65535
 
 Url that your SocketIO server will bind to
 
-Default: `ws.tellform.com`<br>
+Default: `ws.ohmyform.com`<br>
 Values: A valid URL
 
 
@@ -72,7 +72,7 @@ Values: "TRUE" or "FALSE"
 
 #### ENABLE_CLUSTER_MODE
 
-Disable support for running TellForm with pm2's cluster mode. Disabling this allows you to not run a Redis instance. 
+Disable support for running OhMyForm with pm2's cluster mode. Disabling this allows you to not run a Redis instance. 
 
 Default: `FALSE`<br>
 Values:"TRUE" or "FALSE"
@@ -170,7 +170,7 @@ Values: A string
 
 Sets the `<title>` property of your webapp.
 
-Default: `TellForm`<br>
+Default: `OhMyForm`<br>
 Values: A string
 
 
@@ -200,7 +200,7 @@ Values: A valid Sentry.io DSN
 
 #### GOOGLE_ANALYTICS_ID
 
-Set this to your GA id to enable GA tracking on your TellForm instance
+Set this to your GA id to enable GA tracking on your OhMyForm instance
 
 Default: `N/A`<br>
 Values: A valid Google Analytics ID
