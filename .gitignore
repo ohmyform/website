@@ -2,4 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 *.png~
-.kra
+*/.kra
