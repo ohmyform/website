@@ -3,3 +3,4 @@ _site/
 .jekyll-metadata
 *.png~
 */.kra
+.DS_Store
