@@ -11,8 +11,9 @@ The steps are as follows:
 * Step One: `git clone https://github.com/ohmyform/ohmyform.git`
 * Step Two: Modify anything you want to in the source.
 * Step Three: `cd ohmyform`
-* Step Four: `docker-compose up -d`
-* Step Five: `docker-compose ps`
+* Setp Four: `git submodule update --init`
+* Step Five: `docker-compose up -d`
+* Step Six: `docker-compose ps`
 
 You should at this point have a working instance to play with at `http://localhost:5000/` within moments.
 
