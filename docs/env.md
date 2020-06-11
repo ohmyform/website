@@ -14,6 +14,9 @@ OhMyForm's configuration is done with environment variables. To set an option fo
 | ADMIN_EMAIL | Email of generated admin user | `admin@ohmyform.com` | A valid email |
 | ADMIN_USERNAME | Username of generated admin user | `root` | A string |
 | ADMIN_PASSWORD | Password of generated admin user | `root` | A string |
+| DEFAULT_ROLE | Role of any newly registered user | `user` | one of `admin`, `superuser`, `user` |
+| LOGIN_NOTE | Markdown Text to show on the Login Page | NULL | A string |
+| HIDE_CONTRIB | ability to remove contribution banner | null | "TRUE" |
 
 
 ### yet to be ported env variables
