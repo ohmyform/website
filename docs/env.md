@@ -38,7 +38,7 @@ Values: A string
 
 #### APP_DESC
 
-Sets the,property of your webapp.
+Sets the, property of your webapp.
 
 Default: `Opensource form builder alternative to TypeForm`<br>
 Values: A string
@@ -49,6 +49,6 @@ Values: A string
 Sets the value of the <meta> description attribute.
 
 Default: `typeform, pdfs, forms, opensource, formbuilder, google forms, nodejs`<br>
-Values: A comma-seperated list of phrases/words
+Values: A comma-separated list of phrases/words
 
 

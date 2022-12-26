@@ -30,7 +30,7 @@ The steps are as follows:
 * Step One: `git clone https://github.com/ohmyform/ohmyform.git`
 * Step Two: Modify anything you want to in the source.
 * Step Three: `cd ohmyform`
-* Setp Four: `git submodule update --init`
+* Step Four: `git submodule update --init`
 * Step Five: `docker-compose up -d`
 * Step Six: `docker-compose ps`
 
